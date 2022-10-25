@@ -146,9 +146,16 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>View Hot Props in Prop House</title>
-        <meta name="description" content="View hot props" />
+        <meta name="description" content="View Hot Props is a web application that picks up and displays the
+          exciting props at each community house." />
         <link rel="icon" href="/favicon.ico" />
         <base target="_blank"></base>
+        <meta property="og:url" content="https://norark.github.io/Prop-House-Hackathon-View-Hot-Props/" />
+        <meta property="og:title" content="View Hot Props | Prop House | NORARK" />
+        <meta property="og:site_name" content="View Hot Props" />
+        <meta property="og:description" content="View Hot Props is a web application that picks up and displays the
+          exciting props at each community house." />
+        <meta property="og:image" content="/ogp.png" />
       </Head>
 
       <header className={styles.header}>
