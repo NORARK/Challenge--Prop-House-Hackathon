@@ -155,7 +155,7 @@ const Home: NextPage = () => {
         <meta property="og:site_name" content="View Hot Props" />
         <meta property="og:description" content="View Hot Props is a web application that picks up and displays the
           exciting props at each community house." />
-        <meta property="og:image" content="ogp.png" />
+        <meta property="og:image" content="./ogp.png" />
       </Head>
 
       <header className={styles.header}>
