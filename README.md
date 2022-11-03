@@ -1,4 +1,8 @@
 Web Site  
+
+**Hackathon has ended.
+It will not be maintained for a while from now on.**
+
 https://norark.github.io/Prop-House-Hackathon-View-Hot-Props/
 
 ---
