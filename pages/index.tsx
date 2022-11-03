@@ -473,10 +473,11 @@ const Home: NextPage = () => {
       )}
 
       <main className={styles.main}>
-        <p className={styles.description}>
-          View Hot Props is a web application that picks up and displays the
-          exciting props at each community house.
-        </p>
+        <div className={styles.description}>
+          <p><strong>Hackathon has ended. It will not be maintained for a while from now on.</strong></p>
+          <p>View Hot Props is a web application that picks up and displays the
+          exciting props at each community house.</p>
+        </div>
 
         <aside className={styles.control}>
           <label className={styles.item}>
